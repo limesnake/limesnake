@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @limesnake
+- 👀 I’m interested in cybersecurity and programming
+- 🌱 I’m currently learning cybersecurity and digital forensics
